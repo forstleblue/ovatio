@@ -1,0 +1,24 @@
+.paddingTop {
+    padding-top: 100px;
+}
+
+.addpage {
+    background-color: blue;
+}
+
+.addArea {
+    padding-bottom: 40px;   
+}
+
+.dataTablesWrapper {
+    position: relative;
+    clear: both;
+    zoom: 1;
+}
+
+.dataTablesWrapper .dataTablesFilter {
+    float: left;
+    text-align: right;
+}
+
+
