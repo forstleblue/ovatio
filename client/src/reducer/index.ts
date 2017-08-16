@@ -1,6 +1,8 @@
 import { combineReducers, Reducer } from 'redux';
 import { routerReducer } from 'react-router-redux';
-//main rootReducer master
+
+//main rootReducer master bramch
+
 const rootReducer: Reducer<any> = combineReducers({
     routing: routerReducer
 });
